@@ -1,5 +1,5 @@
 { "name" : "lua",
-  "main" : "./lib/lua.js" 
+  "main" : "./lib/lua.js",
   "version" : "0.0.1",
   "devDependencies" : {
     "vows" : "0.5.9",
